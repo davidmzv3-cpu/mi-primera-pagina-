@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(31, 112, 183);
+    font-family: Arial, sans-serif; /*Fuente legible y moderna*/
+    margin: 20px; /*Espacio alrededor del contenido*/
+
+}
+
+h1{
+    color: #333; /*Color de texto oscuro */ 
+    text-align: center; /*Centra el texto*/
+}
+
+p{
+    font-size: 18px; /*Tamaño de letra comodo para la lectura*/
+
+}
+
+img{
+    display:block; /* Convierte la imagen en un bloque para aplicar margenes */
+    margin-left: auto; /*El margen izquierdo  se ajusta automaticamente */
+    margin-right: auto; /* El margen derecho se ajusta automaticamente*/
+    width: 300px; /* Tamaño fijo opcional para controlar el ancho*/
+    border-radius: 10px; /* Bordes redondeados para estatica*/
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2); /* Sombra suave para resaltar la imagen */
+    
+
+}
+
